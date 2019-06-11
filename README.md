@@ -4,7 +4,7 @@ Line 1
 This change is from change1. Should be merged into master
 
 Line 2 - edited in master branch of mysimplerepository
-
+This line below line 2 is added in master branch of mysimplerepository
 
 Line 3
 
